@@ -19,7 +19,4 @@ closeModal.addEventListener('click', () =>{
     contentModal.classList.remove('show-modal')
 })
 
-modal.addEventListener('click', () =>{
-    modal.classList.remove('show-modal')
-    contentModal.classList.remove('show-modal')
-})
+
