@@ -359,6 +359,14 @@ body {
 }
 
 
+/*Post Text */
+.post-text{
+    text-align: justify;
+    text-justify: auto;
+    white-space: wrap;
+    line-height: 28px;
+}
+
 /*-------Media Query----------*/
 
 
